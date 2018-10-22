@@ -1,0 +1,18 @@
+*Stand up*
+
+Riaz: DW sync, market mapping, SSIS
+
+Ahsan: Carma deduping
+
+Asad: Refactor CACCI
+
+Saad: Stress testing QaApi
+
+Mudassir: New api call for quick bid, unit tests
+
+Fahad: Carrier matches
+
+Hussain: Reset sort corner cases
+
+Urooba: FireBase, Jquery, 
+
